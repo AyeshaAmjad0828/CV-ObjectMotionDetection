@@ -1,2 +1,3 @@
 # CV-ObjectMotionDetection
- Calculatng the duration of pendulum swings in a video
+
+ Calculating the duration of pendulum swings in a video.
